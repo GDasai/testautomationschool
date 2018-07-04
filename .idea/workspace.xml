@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65150acf-3e9f-4624-97e2-9ee78a0e717e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/testautomationschool/js/contact_me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testautomationschool/js/jqBootstrapValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testautomationschool/mail/contact_me.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testautomationschool/fitnesse.html" beforeDir="false" afterPath="$PROJECT_DIR$/testautomationschool/fitnesse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testautomationschool/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/testautomationschool/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testautomationschool/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="37" column="73" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="73" />
+            <state relative-caret-position="127">
+              <caret line="61" column="73" selection-start-line="61" selection-start-column="73" selection-end-line="61" selection-end-column="73" />
               <folding>
                 <element signature="e#6653#6659#0" expanded="true" />
               </folding>
@@ -26,11 +29,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomationschool/css/home.css">
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomationschool/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-126">
+              <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+              <folding>
+                <element signature="e#76#83#1" expanded="true" />
+                <element signature="e#76#83#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jqBootstrapValidation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomationschool/js/jqBootstrapValidation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="26" column="79" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testautomationschool/mail/contact_me.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -44,40 +72,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomationschool/vendor/bootstrap/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="5" column="100594" selection-start-line="5" selection-start-column="100594" selection-end-line="5" selection-end-column="100594" />
-              <folding>
-                <element signature="e#58784#58984#2" expanded="true" />
-                <element signature="e#59192#59341#2" expanded="true" />
-                <element signature="e#59843#59989#2" expanded="true" />
-                <element signature="e#60290#60456#1" expanded="true" />
-                <element signature="e#71108#71351#2" expanded="true" />
-                <element signature="e#72218#72467#2" expanded="true" />
-                <element signature="e#99230#99420#2" expanded="true" />
-                <element signature="e#99466#99656#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logoTAS.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testautomationschool/img/logoTAS.svg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file leaf-file-name="logoTASv.svg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testautomationschool/img/logoTASv.svg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="fitnesse.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fitnesse.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testautomationschool/fitnesse.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cucumber.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomationschool/cucumber.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="java.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testautomationschool/java.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -107,13 +129,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/startbootstrap-scrolling-nav-gh-pages/index.html" />
-        <option value="$PROJECT_DIR$/testautomationschool/cucumber.html" />
-        <option value="$PROJECT_DIR$/testautomationschool/java.html" />
         <option value="$PROJECT_DIR$/testautomationschool/css/home.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/testautomationschool/index.html" />
         <option value="$PROJECT_DIR$/testautomationschool/css/scrolling-nav.css" />
         <option value="$PROJECT_DIR$/testautomationschool/fitnesse.html" />
+        <option value="$PROJECT_DIR$/testautomationschool/cucumber.html" />
+        <option value="$PROJECT_DIR$/testautomationschool/java.html" />
+        <option value="$PROJECT_DIR$/testautomationschool/index.html" />
+        <option value="$PROJECT_DIR$/testautomationschool/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/testautomationschool/js/contact_me.js" />
       </list>
     </option>
   </component>
@@ -173,13 +197,13 @@
               <item name="testautomationschool-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="testautomationschool-website" type="462c0819:PsiDirectoryNode" />
               <item name="testautomationschool" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testautomationschool-website" type="b2602c69:ProjectViewProjectNode" />
               <item name="testautomationschool-website" type="462c0819:PsiDirectoryNode" />
               <item name="testautomationschool" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="mail" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,8 +226,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/testautomationschool" />
+      <recent name="C:\Users\dbxgda\Downloads\testautomationschool-website\testautomationschool\js" />
       <recent name="C:\Users\dbxgda\Downloads\testautomationschool-website\testautomationschool" />
+      <recent name="$PROJECT_DIR$/testautomationschool" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +301,7 @@
       <workItem from="1530107903558" duration="244000" />
       <workItem from="1530108241487" duration="6228000" />
       <workItem from="1530281188498" duration="3357000" />
-      <workItem from="1530714140046" duration="604000" />
+      <workItem from="1530714140046" duration="2764000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed img size">
       <created>1530283724329</created>
@@ -292,15 +317,21 @@
       <option name="project" value="LOCAL" />
       <updated>1530284094333</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added back buttons">
+      <created>1530714884295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1530714884295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11659000" />
+    <option name="totallyTimeSpent" value="13819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -311,11 +342,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32842416" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32842416" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32842416" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32842416" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -366,7 +397,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed img size" />
     <MESSAGE value="changed size sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed size sections" />
+    <MESSAGE value="added back buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="added back buttons" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testautomationschool/index.html">
@@ -538,20 +570,6 @@
     <entry file="file://$PROJECT_DIR$/startbootstrap-scrolling-nav-gh-pages/index.html" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc" />
-    <entry file="file://$PROJECT_DIR$/testautomationschool/java.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testautomationschool/cucumber.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testautomationschool/vendor/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
@@ -596,20 +614,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomationschool/index.html">
+    <entry file="file://$PROJECT_DIR$/testautomationschool/fitnesse.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="37" column="73" lean-forward="true" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="73" />
+          <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomationschool/cucumber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomationschool/java.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomationschool/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="61" column="73" selection-start-line="61" selection-start-column="73" selection-end-line="61" selection-end-column="73" />
           <folding>
             <element signature="e#6653#6659#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testautomationschool/fitnesse.html">
+    <entry file="file://$PROJECT_DIR$/testautomationschool/js/jqBootstrapValidation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="59" column="57" selection-start-line="59" selection-start-column="57" selection-end-line="59" selection-end-column="57" />
+        <state relative-caret-position="127">
+          <caret line="26" column="79" selection-start-line="26" selection-start-column="79" selection-end-line="26" selection-end-column="79" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomationschool/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+          <folding>
+            <element signature="e#76#83#1" expanded="true" />
+            <element signature="e#76#83#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testautomationschool/mail/contact_me.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
