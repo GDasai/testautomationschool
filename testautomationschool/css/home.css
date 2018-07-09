@@ -1,7 +1,8 @@
-a {
-    /*color: rgba(58, 100, 147, 0.72);*/
-    /*background-image: url("../img/system-engineer-19.jpg");*/
-    /*background-color: #022754;*/
+.a {
+    background-image: url("../img/system-engineer-19tr.jpg");
+    background-repeat: no-repeat;
+    /*background-size: 700px;*/
+    background-position: center;
 }
 
 h1 {
