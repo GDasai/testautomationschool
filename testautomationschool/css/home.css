@@ -1,8 +1,13 @@
 a {
     /*color: rgba(58, 100, 147, 0.72);*/
     /*background-image: url("../img/system-engineer-19.jpg");*/
+    /*background-color: #022754;*/
 }
 
 h1 {
     font-size: 30px;
+}
+
+.bg-dark-a {
+    background-color: #022754;
 }
