@@ -1,7 +1,8 @@
 .a {
-    background-image: url("../img/system-engineer-19tr.jpg");
+    /*background-image: url("../img/system-engineer-19tr.jpg");*/
+    background-image: url("../img/thumbnail_IMG_2444.jpg");
     background-repeat: no-repeat;
-    /*background-size: 700px;*/
+    background-size: 900px;
     background-position: center;
 }
 
